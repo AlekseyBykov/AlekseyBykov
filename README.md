@@ -16,7 +16,11 @@ Here are some of my open-source experiments and demos:
 ### Go
 
 - [pets.go-memcache](https://github.com/AlekseyBykov/pets.go-memcache) — Simple in-memory thread-safe cache.
-- [pets.go-http-client](https://github.com/AlekseyBykov/pets.go-http-client) — Minimalist HTTP client.
 - [netwatcher](https://github.com/AlekseyBykov/netwatcher) — Periodic HTTP monitor in Go. Worker pool, graceful shutdown, clean architecture.
+- [pets.go-http-client](https://github.com/AlekseyBykov/pets.go-http-client) — Minimalist HTTP client.
+
+### Certificates
+
+- [certificates](https://github.com/AlekseyBykov/certificates) — Сollection of all completed courses & certificates.
 
 ---
