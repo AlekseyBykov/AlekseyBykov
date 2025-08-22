@@ -5,6 +5,7 @@ Here are some of my open-source experiments and demos:
 - [pets.edu-sphere](https://github.com/AlekseyBykov/pets.edu-sphere) — Microservices system: courses, modules, lessons.
 - [pets.event-driven-demo](https://github.com/AlekseyBykov/pets.event-driven-demo) — RabbitMQ-based microservices with message exchange.
 - [pets.payment-ttl-dlx](https://github.com/AlekseyBykov/pets.payment-ttl-dlx) — Payment expiration demo with RabbitMQ TTL and DLX.
+- [pets.sdk-api-demo](https://github.com/AlekseyBykov/pets.sdk-api-demo) — Custom rate limiter SDK to prevent exceeding a fixed number of requests per second.
 - [pets.jaxb-demo](https://github.com/AlekseyBykov/pets.jaxb-demo) — JAXB examples: XML ↔ Java, XSD generation.
 - [querydsl-demo](https://github.com/AlekseyBykov/querydsl-demo) — QueryDSL with Spring Boot and Testcontainers. Type-safe JPA queries, realistic testing.
 - [pets.diagnostic-lab](https://github.com/AlekseyBykov/pets.diagnostic-lab) — JVM diagnostics: thread dump, heap dump, GC logs.
