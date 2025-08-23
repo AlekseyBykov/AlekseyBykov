@@ -3,6 +3,7 @@ Here are some of my open-source experiments and demos:
 ### Java
 
 - [pets.edu-sphere](https://github.com/AlekseyBykov/pets.edu-sphere) — Microservices system: courses, modules, lessons.
+- [pets.soap-saml-demo](https://github.com/AlekseyBykov/pets.soap-saml-demo) — SOAP Web Services with SAML 2.0 authentication using Keycloak IdP.
 - [pets.event-driven-demo](https://github.com/AlekseyBykov/pets.event-driven-demo) — RabbitMQ-based microservices with message exchange.
 - [pets.payment-ttl-dlx](https://github.com/AlekseyBykov/pets.payment-ttl-dlx) — Payment expiration demo with RabbitMQ TTL and DLX.
 - [pets.sdk-api-demo](https://github.com/AlekseyBykov/pets.sdk-api-demo) — Custom rate limiter SDK to prevent exceeding a fixed number of requests per second.
