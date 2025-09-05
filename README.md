@@ -1,6 +1,6 @@
 Here are some of my open-source experiments and demos:
 
-### Live Demo
+### 🌐 Live Demos
 
 - [Weather Map Demo](https://weather.abykov.dev) — interactive map showing hourly weather temperature forecast.
 
