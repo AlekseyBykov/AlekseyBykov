@@ -17,7 +17,7 @@ Here are some of my open-source experiments and demos:
 - [pets.spring-ai-chat](https://github.com/AlekseyBykov/pets.spring-ai-chat) — REST API with local LLM (Ollama, Mistral). Lightweight AI assistant.
 - [pets.yaml-parser](https://github.com/AlekseyBykov/pets.yaml-parser) — YAML rule parser with embedded JavaScript evaluation using GraalVM.
 - [pets.pipespec](https://github.com/AlekseyBykov/pets.pipespec) — ETL module for parsing flat files with XML schema validation and mapping into domain.
-- [pets.weather-map-demo](https://github.com/AlekseyBykov/pets.weather-map-demo) — Spring Boot + Frontend demo. Interactive map, deployed on VPS using GitHub Actions (CI/CD pipeline).
+- [pets.weather-map-demo](https://github.com/AlekseyBykov/pets.weather-map-demo) — Spring Boot + Frontend demo. Interactive map with CI/CD deploy to VPS.
 - [pets.spring-boot-monolith](https://github.com/AlekseyBykov/pets.spring-boot-monolith) — Layered monolith architecture.
 - [pets.onion-architecture](https://github.com/AlekseyBykov/pets.onion-architecture) — Onion-style monolith with domain separation.
 
