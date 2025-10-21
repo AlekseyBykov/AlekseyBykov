@@ -3,6 +3,7 @@ Here are some of my open-source experiments and demos:
 ### Java
 
 #### Full-stack & Deployment
+- [myblog](https://github.com/AlekseyBykov/myblog) — My blog with Spring Boot backend and React frontend.
 - [relmgr-web](https://github.com/AlekseyBykov/relmgr-web) — Full-stack release management tool built with React and Spring Boot microservices.
 - [pets.weather-map-demo](https://github.com/AlekseyBykov/pets.weather-map-demo) — Spring Boot backend with frontend, CI/CD deployment to VPS.
 
