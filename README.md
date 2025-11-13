@@ -1,9 +1,5 @@
 Here are some of my open-source experiments and demos:
 
-### 🌐 Live Demos
-
-- [Weather Map Demo](https://weather.abykov.dev) — interactive map showing hourly weather temperature forecast.
-
 ### Java
 
 - [pets.edu-sphere](https://github.com/AlekseyBykov/pets.edu-sphere) — Microservices system: courses, modules, lessons.
