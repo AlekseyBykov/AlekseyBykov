@@ -6,6 +6,7 @@ Here are some of my open-source experiments and demos:
 - [pets.weather-map-demo](https://github.com/AlekseyBykov/pets.weather-map-demo) — Spring Boot backend with frontend, CI/CD deployment to VPS.
 
 #### Desktop Applications
+- [relmgr-web](https://github.com/AlekseyBykov/relmgr-web) — Full-stack release management tool built with React and Spring Boot microservices.
 - [pets.relmgr](https://github.com/AlekseyBykov/pets.relmgr) — JavaFX desktop app for release management, patch packaging, and communication workflows.
 
 #### Microservices & Event-Driven Systems
