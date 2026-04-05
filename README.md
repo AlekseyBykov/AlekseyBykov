@@ -1,44 +1,38 @@
 Here are some of my open-source experiments and demos:
 
-### Java
+### PatchCraft — Release Automation Platform
 
-#### Full-stack & Deployment
-- [myblog](https://github.com/AlekseyBykov/myblog) — My blog with Spring Boot backend and React frontend.
-- [relmgr-web](https://github.com/AlekseyBykov/relmgr-web) — Full-stack release management tool built with React and Spring Boot microservices.
-- [pets.weather-map-demo](https://github.com/AlekseyBykov/pets.weather-map-demo) — Spring Boot backend with frontend, CI/CD deployment to VPS.
+* [patchcraft-web](https://github.com/AlekseyBykov/patchcraft-web) — Microservice-based system for automated patch generation, notifications, and integrations.
+* [patchcraft-desktop](https://github.com/AlekseyBykov/patchcraft-desktop) — Desktop tool for patch creation, impact analysis, and delivery workflows (Go + Wails).
+* [pets.relmgr](https://github.com/AlekseyBykov/pets.relmgr) — JavaFX desktop application for release management, patch packaging, and communication workflows.
 
-#### Desktop Applications
-- [pets.relmgr](https://github.com/AlekseyBykov/pets.relmgr) — JavaFX desktop app for release management, patch packaging, and communication workflows.
+### Microservices & Distributed Systems
 
-#### Microservices & Event-Driven Systems
-- [pets.edu-sphere](https://github.com/AlekseyBykov/pets.edu-sphere) — Microservices platform for courses, modules, and lessons.
-- [pets.event-driven-demo](https://github.com/AlekseyBykov/pets.event-driven-demo) — Event-driven microservices using RabbitMQ.
-- [pets.payment-ttl-dlx](https://github.com/AlekseyBykov/pets.payment-ttl-dlx) — Message TTL and DLX patterns for payment expiration.
-- [pets.spring-ai-chat](https://github.com/AlekseyBykov/pets.spring-ai-chat) — REST API with a local LLM (Ollama, Mistral).
+* [pets.edu-sphere](https://github.com/AlekseyBykov/pets.edu-sphere) — Microservice-based system with API gateway and containerized deployment.
+* [pets.event-driven-demo](https://github.com/AlekseyBykov/pets.event-driven-demo) — Event-driven microservices using RabbitMQ.
+* [pets.payment-ttl-dlx](https://github.com/AlekseyBykov/pets.payment-ttl-dlx) — Message TTL and DLX patterns for delayed processing and expiration.
 
-#### Architecture & Design Patterns
-- [pets.spring-boot-monolith](https://github.com/AlekseyBykov/pets.spring-boot-monolith) — Layered monolith architecture.
-- [pets.onion-architecture](https://github.com/AlekseyBykov/pets.onion-architecture) — Onion architecture with strict domain separation.
-- [pets.sdk-api-demo](https://github.com/AlekseyBykov/pets.sdk-api-demo) — Custom SDK implementing a rate-limiting strategy.
+### Architecture & Backend Design
 
-#### Data Processing & Integration
-- [pets.pipespec](https://github.com/AlekseyBykov/pets.pipespec) — ETL module for flat-file parsing, XML validation, and domain mapping.
-- [pets.yaml-parser](https://github.com/AlekseyBykov/pets.yaml-parser) — YAML rules engine with embedded JavaScript (GraalVM).
-- [pets.jaxb-demo](https://github.com/AlekseyBykov/pets.jaxb-demo) — JAXB examples: XML ↔ Java mapping and XSD generation.
+* [pets.spring-boot-monolith](https://github.com/AlekseyBykov/pets.spring-boot-monolith) — Layered monolith architecture example.
+* [pets.onion-architecture](https://github.com/AlekseyBykov/pets.onion-architecture) — Onion architecture with strict domain separation.
+* [pets.sdk-api-demo](https://github.com/AlekseyBykov/pets.sdk-api-demo) — Custom rate limiter with scheduled sender.
 
-#### Testing, Diagnostics & Tooling
-- [querydsl-demo](https://github.com/AlekseyBykov/pets.querydsl-demo) — QueryDSL with Spring Boot and Testcontainers.
-- [pets.autotests-app](https://github.com/AlekseyBykov/pets.autotests-app) — Automated test runner with Excel-based scenarios and reports.
-- [pets.diagnostic-lab](https://github.com/AlekseyBykov/pets.diagnostic-lab) — JVM diagnostics: thread dumps, heap dumps, GC analysis.
+### Data Processing & Integration
 
-### Go
+* [pets.pipespec](https://github.com/AlekseyBykov/pets.pipespec) — ETL module for flat-file parsing, XML validation, and domain mapping.
+* [querydsl-demo](https://github.com/AlekseyBykov/pets.querydsl-demo) — QueryDSL usage with Spring Boot and Testcontainers.
 
-- [pets.go-memcache](https://github.com/AlekseyBykov/pets.go-memcache) — Simple in-memory thread-safe cache.
-- [netwatcher](https://github.com/AlekseyBykov/netwatcher) — Periodic HTTP monitor in Go. Worker pool, graceful shutdown, clean architecture.
-- [pets.go-http-client](https://github.com/AlekseyBykov/pets.go-http-client) — Minimalist HTTP client.
+### Testing, Diagnostics & Tooling
+
+* [pets.autotests-app](https://github.com/AlekseyBykov/pets.autotests-app) — Automated test runner with Excel-based scenarios and reporting.
+* [pets.diagnostic-lab](https://github.com/AlekseyBykov/pets.diagnostic-lab) — JVM diagnostics: thread dumps, heap dumps, GC analysis.
+* [pets.oracle-index-utils](https://github.com/AlekseyBykov/pets.oracle-index-utils) — Idempotent Oracle index creation with Testcontainers-based validation.
+
+### AI & Experiments
+
+* [pets.spring-ai-chat](https://github.com/AlekseyBykov/pets.spring-ai-chat) — REST API with local LLM integration (Ollama, Mistral).
 
 ### Certificates
 
-- [certificates](https://github.com/AlekseyBykov/certificates) — Сollection of all completed courses & certificates.
-
----
+* [certificates](https://github.com/AlekseyBykov/certificates) — Collection of completed courses and certifications.
