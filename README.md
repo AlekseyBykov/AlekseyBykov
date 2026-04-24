@@ -7,7 +7,7 @@ Here are some of my open-source experiments and demos:
 * [pets.relmgr](https://github.com/AlekseyBykov/pets.relmgr) — JavaFX desktop application for release management, patch packaging, and communication workflows.
 
 #### Microservices & Distributed Systems
-
+* [cloud-marketplace-menu-service](https://github.com/AlekseyBykov/cloud-marketplace-menu-service) - RESTful microservice for managing menu items in a cloud marketplace.
 * [pets.edu-sphere](https://github.com/AlekseyBykov/pets.edu-sphere) — Microservice-based system with API gateway and containerized deployment.
 * [pets.event-driven-demo](https://github.com/AlekseyBykov/pets.event-driven-demo) — Event-driven microservices using RabbitMQ.
 * [pets.payment-ttl-dlx](https://github.com/AlekseyBykov/pets.payment-ttl-dlx) — Message TTL and DLX patterns for delayed processing and expiration.
