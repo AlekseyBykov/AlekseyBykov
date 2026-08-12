@@ -1,6 +1,7 @@
 Here are some of my open-source experiments and demos:
 
 #### Java Core & Algorithms 
+* [stream-template-engine](https://github.com/AlekseyBykov/stream-template-engine) — Lightweight reusable Java library for streaming placeholder replacement.
 * [wordle-game](https://github.com/AlekseyBykov/wordle-game) — Wordle game implementation with clean architecture, dictionary indexing, and comprehensive unit tests.
 * [sleep-tracker-analyzer](https://github.com/AlekseyBykov/sleep-tracker-analyzer) — Analysis tool for analyzing sleep logs and calculating sleep-related metrics.
 * [movie-catalog-api](https://github.com/AlekseyBykov/movie-catalog-api) — Lightweight Java 21 REST API built with JDK HttpServer and Hexagonal Architecture.
