@@ -6,6 +6,9 @@ Here are some of my open-source experiments and demos:
 * [sleep-tracker-analyzer](https://github.com/AlekseyBykov/sleep-tracker-analyzer) — Analysis tool for analyzing sleep logs and calculating sleep-related metrics.
 * [movie-catalog-api](https://github.com/AlekseyBykov/movie-catalog-api) — Lightweight Java 21 REST API built with JDK HttpServer and Hexagonal Architecture.
 
+#### Team Projects
+* [Filmorate](https://github.com/ab-sandbox/java-filmorate-team) — Yandex Practicum team project. Implemented recommendations and activity feed; contributed as [@ab-sandbox](https://github.com/ab-sandbox).
+
 #### Microservices & Distributed Systems
 * [cloud-marketplace](https://github.com/AlekseyBykov/cloud-marketplace) — Microservices-based platform demonstrating modern backend architecture and system design.
 * [edu-sphere](https://github.com/AlekseyBykov/pets.edu-sphere) — Microservice-based system with API gateway and containerized deployment.
