@@ -6,8 +6,9 @@ Here are some of my projects, practical engineering cases, and open-source exper
 * [sleep-tracker-analyzer](https://github.com/AlekseyBykov/sleep-tracker-analyzer) — Analysis tool for analyzing sleep logs and calculating sleep-related metrics.
 * [movie-catalog-api](https://github.com/AlekseyBykov/movie-catalog-api) — Lightweight Java 21 REST API built with JDK HttpServer and Hexagonal Architecture.
 
-#### Team Projects
-* [Filmorate](https://github.com/ab-sandbox/java-filmorate-team) — Yandex Practicum team project. Implemented recommendations and activity feed; contributed as [@ab-sandbox](https://github.com/ab-sandbox).
+#### Real-World Cases
+Projects based on practical engineering cases from industry partners.
+* [URL Shortener](https://github.com/ab-sandbox/mephi-java-url-shortener) — Based on a **PROMO IT** case as part of the **MEPhI** educational program. Built with Java 21, Spring Boot, PostgreSQL, and REST API, featuring link expiration, click limits, notifications, and a standalone CLI.
 
 #### Real-World Cases
 Projects based on practical engineering cases and real-world requirements.
