@@ -10,9 +10,8 @@ Here are some of my projects, practical engineering cases, and open-source exper
 Projects based on practical engineering cases from industry partners.
 * [URL Shortener](https://github.com/ab-sandbox/mephi-java-url-shortener) — Based on a **PROMO IT** case as part of the **MEPhI** educational program. Built with Java 21, Spring Boot, PostgreSQL, and REST API, featuring link expiration, click limits, notifications, and a standalone CLI.
 
-#### Real-World Cases
-Projects based on practical engineering cases and real-world requirements.
-* [URL Shortener](https://github.com/ab-sandbox/mephi-java-url-shortener) — Based on a **PROMO IT** case. Java 21, Spring Boot, PostgreSQL, Flyway, REST API, and standalone CLI. Features link expiration, click limits, and notifications.
+#### Team Projects
+* [Filmorate](https://github.com/ab-sandbox/java-filmorate-team) — Yandex Practicum team project. Implemented recommendations and activity feed; contributed as [@ab-sandbox](https://github.com/ab-sandbox).
 
 #### Microservices & Distributed Systems
 * [cloud-marketplace](https://github.com/AlekseyBykov/cloud-marketplace) — Microservices-based platform demonstrating modern backend architecture and system design.
