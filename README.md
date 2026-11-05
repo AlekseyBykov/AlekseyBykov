@@ -1,4 +1,4 @@
-Here are some of my open-source experiments and demos:
+Here are some of my projects, practical engineering cases, and open-source experiments:
 
 #### Java Core & Algorithms 
 * [stream-template-engine](https://github.com/AlekseyBykov/stream-template-engine) — Lightweight reusable Java library for streaming placeholder replacement.
@@ -8,6 +8,10 @@ Here are some of my open-source experiments and demos:
 
 #### Team Projects
 * [Filmorate](https://github.com/ab-sandbox/java-filmorate-team) — Yandex Practicum team project. Implemented recommendations and activity feed; contributed as [@ab-sandbox](https://github.com/ab-sandbox).
+
+#### Real-World Cases
+Projects based on practical engineering cases and real-world requirements.
+* [URL Shortener](https://github.com/ab-sandbox/mephi-java-url-shortener) — Based on a **PROMO IT** case. Java 21, Spring Boot, PostgreSQL, Flyway, REST API, and standalone CLI. Features link expiration, click limits, and notifications.
 
 #### Microservices & Distributed Systems
 * [cloud-marketplace](https://github.com/AlekseyBykov/cloud-marketplace) — Microservices-based platform demonstrating modern backend architecture and system design.
