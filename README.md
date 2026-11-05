@@ -13,7 +13,7 @@ Projects based on practical engineering cases from industry partners.
 
 #### Team Projects
 Collaborative development projects involving shared codebases, feature ownership, and team workflows.
-* [Filmorate](https://github.com/ab-sandbox/java-filmorate-team) — Yandex Practicum team project. Implemented recommendations and activity feed; contributed as [@ab-sandbox](https://github.com/ab-sandbox).
+* [Filmorate](https://github.com/ab-sandbox/java-filmorate-team) — **Yandex Practicum** team project. Implemented recommendations and activity feed; contributed as [@ab-sandbox](https://github.com/ab-sandbox).
 
 #### Microservices & Distributed Systems
 Projects exploring microservice architectures, asynchronous communication, and distributed application design.
