@@ -9,7 +9,7 @@ Java applications and libraries focused on core language features, algorithms, a
 
 #### Real-World Cases
 Projects based on practical engineering cases from industry partners.
-* [URL Shortener](https://github.com/ab-sandbox/mephi-java-url-shortener) — Based on a **PROMO IT** case as part of the **MEPhI** educational program. Built with Java 21, Spring Boot, PostgreSQL, and REST API, featuring link expiration, click limits, notifications, and a standalone CLI.
+* [URL Shortener](https://github.com/ab-sandbox/mephi-java-url-shortener) — Full-stack application based on a **PROMO IT** case as part of the **MEPhI** educational program.  Built with Java 21, Spring Boot, PostgreSQL, React, and TypeScript. Features link expiration, click limits, notifications, and a standalone CLI.
 
 #### Team Projects
 Collaborative development projects involving shared codebases, feature ownership, and team workflows.
